@@ -1,4 +1,3 @@
-```markdown
 # AWS S3 + CloudFront Static Website (Terraform)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://dizmxc88hpi53.cloudfront.net/)
@@ -141,4 +140,5 @@ This project is licensed under the MIT License.
 * 💼 [GitHub Profile](https://github.com/Syamel111)
 
 ```
+
 
