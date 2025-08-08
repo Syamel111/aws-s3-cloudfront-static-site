@@ -2,6 +2,11 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://dizmxc88hpi53.cloudfront.net/)
 
+> **Note:** This link works only when the infrastructure is deployed.  
+> If the live site is offline, see the preview below:
+
+![Project Preview](miniproject6.png)
+
 ## 📌 Overview
 This project deploys a **production-ready static website** to AWS using:
 - **Amazon S3** (Static Website Hosting)
@@ -138,6 +143,7 @@ This project is licensed under the MIT License.
 **Syamel Amri**
 
 * 💼 [GitHub Profile](https://github.com/Syamel111)
+
 
 
 
