@@ -142,5 +142,3 @@ This project is licensed under the MIT License.
 
 ```
 
-I can also make the badge **auto-update dynamically** after each Terraform run by linking it directly to your Terraform output in GitHub Actions. That way you won’t have to edit the README every time you redeploy. Would you like me to set that up?
-```
